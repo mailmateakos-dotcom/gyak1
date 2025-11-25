@@ -1,3 +1,3 @@
-Ez a mini projekt arra való, hogy gyakoroljunk a Gitrt és a Trellót.
+Ez a mini projekt egy modernebb dokumentumkezelési gyakorlófeladat lesz.
 A projektcélja egy közösen írt dokumentum létrehozása.
 Az első feladat az alapszöveg elkészitése.
