@@ -1,0 +1,3 @@
+Ez a mini projekt arra való, hogy gyakoroljunk a Gitrt és a Trellót.
+A projektcélja egy közösen írt dokumentum létrehozása.
+Az első feladat az alapszöveg elkészitése.
